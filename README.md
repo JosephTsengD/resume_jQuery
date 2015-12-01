@@ -7,7 +7,7 @@
 
 ### By the end:
 My resume looks like this
-![](http://i.imgur.com/pWU1Xbl.png)
+![resume_jquery.PNG](http://user-image.logdown.io/user/13154/blog/13069/post/336005/lZaxUuiUQEyrR5y9DfKZ_resume_jquery.PNG)
 
 And my repository includes the following files:
 
@@ -20,9 +20,7 @@ And my repository includes the following files:
 The GitHub readme file.
 * and some images in the images directory.
 
-
-### js/helper.js
-Within helper.js, you’ll find a large collection of strings containing snippets of HTML. Within many snippets, you’ll find placeholder data in the form of `%data%` or `%contact%`.
-
-Each string has a title that describes how it should be used. For instance, `HTMLworkStart` should be the first `<div>` in the Work section of the resume. `HTMLschoolLocation` contains a `%data%` placeholder which should be replaced with the location of one of your schools.
+***
+##Reference##
+[Udacity - Javascript Basics course](https://www.udacity.com/course/ud804)
 
